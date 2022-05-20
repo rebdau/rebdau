@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rebdau
 - 👀 I’m interested in R coding and LC-MS based computational metabolomics.
-- 🌱 I’m currently learning to use GitHub and making swirl lessons for my R programming course.
+- 🌱 I’m currently learning to use GitHub and updating my statistics course TADE, taught at UPJV.
 - 💞️ I’m looking to collaborate on the development of tools for the storage and interpretation of MSn spectra from LC-MS chromatograms.
 - 📫 You can reach me at rebecca.dauwe@u-picardie.fr
 
